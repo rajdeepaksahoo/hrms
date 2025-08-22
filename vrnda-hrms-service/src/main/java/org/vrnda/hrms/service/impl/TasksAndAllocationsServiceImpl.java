@@ -122,9 +122,12 @@ public class TasksAndAllocationsServiceImpl extends GenericServiceImpl<TasksAndA
 			CmnProjectsMstEntity cmnProjectsMstEntity = cmnProjectsMstRepository
 					.getAllProjectsByProjectName(projectName);
 			if (cmnProjectsMstEntity != null) {
-				MyJiraClient myJiraClient = new MyJiraClient("sahoorajdeepak3@gmail.com",
-						"rajdeepak12#",
-						"https://home.atlassian.com/");
+//				MyJiraClient myJiraClient = new MyJiraClient("sahoorajdeepak3@gmail.com",
+//						"rajdeepak12#",
+//						"https://home.atlassian.com/");
+				MyJiraClient myJiraClient = new MyJiraClient("",
+						"",
+						"");
 //				int maxResult = 50;
 //				int startAt = 0;
 //				SearchResult searchResult = myJiraClient.getIssueByJQL(JQLQUERY, maxResult, startAt);
