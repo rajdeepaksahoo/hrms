@@ -122,9 +122,6 @@ public class TasksAndAllocationsServiceImpl extends GenericServiceImpl<TasksAndA
 			CmnProjectsMstEntity cmnProjectsMstEntity = cmnProjectsMstRepository
 					.getAllProjectsByProjectName(projectName);
 			if (cmnProjectsMstEntity != null) {
-//				MyJiraClient myJiraClient = new MyJiraClient("sahoorajdeepak3@gmail.com",
-//						"rajdeepak12#",
-//						"https://home.atlassian.com/");
 				MyJiraClient myJiraClient = new MyJiraClient("",
 						"",
 						"");
@@ -388,9 +385,6 @@ public class TasksAndAllocationsServiceImpl extends GenericServiceImpl<TasksAndA
 				tasksAndAllocationsDTO.setTaskTypeDescription(taskTypeDescription);
 				tasksAndAllocationsDTO.setPriorityDescription(priorityDescription);
 				tasksAndAllocationsDTO.setCurrentStatusDescription(currentStatusDescription);
-//				MyJiraClient myJiraClient = new MyJiraClient("satish.duvva@vrnda.com",
-//						"ATATT3xFfGF0Q-SM-09_rWWVnKl6-h-UoqaU2GqHAtdPqksX-cn70yIRJVpsnPBoXPwuDX3lwH4dlJ9tmKwxFR9ZW8Ce6xdIiar8pS-gAyzJ04B0sH-HEXOv3WWVyW4QLyQCSKGdjUyIk_8bdCVpZ9HozTnWP9zSQ73JOxjNu1sRpD3kUEX56E8=2B1E2FDA",
-//						"https://syscon.atlassian.net");
 				MyJiraClient myJiraClient = new MyJiraClient("",
 						"",
 						"");
