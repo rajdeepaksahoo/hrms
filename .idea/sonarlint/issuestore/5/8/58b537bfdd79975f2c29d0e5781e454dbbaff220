@@ -1,0 +1,33 @@
+
+t
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "message".(íÙ…8
+z
+java:S1488 "_Immediately return this expression instead of assigning it to the temporary variable "message".(Ü˜•Ÿüÿÿÿÿ
+z
+java:S1488&"_Immediately return this expression instead of assigning it to the temporary variable "message".(žèË«ÿÿÿÿÿ
+u
+java:S1488,"_Immediately return this expression instead of assigning it to the temporary variable "message".(í¤Ï’
+{
+java:S14882"_Immediately return this expression instead of assigning it to the temporary variable "message".(‰›Š8›¹ðÎ¯1
+z
+java:S14888"_Immediately return this expression instead of assigning it to the temporary variable "message".(¦Óéúþÿÿÿÿ
+z
+java:S1488>"_Immediately return this expression instead of assigning it to the temporary variable "message".(ê–½çþÿÿÿÿ
+z
+java:S1488D"_Immediately return this expression instead of assigning it to the temporary variable "message".(Á›ãˆùÿÿÿÿ
+`
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Žåå„
+`
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ü¢ç¦
+e
+java:S4488$"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(”Žæôøÿÿÿÿ
+^
+java:S4488*"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(±“ô²
+c
+java:S44880"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(«À²áùÿÿÿÿ
+]
+java:S44886"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ä´¤=
+c
+java:S4488<"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÕÉÄ°úÿÿÿÿ
+f
+java:S4488B"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(É­ý-8¤¹ðÎ¯1

@@ -1,0 +1,14 @@
+
+u
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "message".(ÆÛš
+u
+java:S1488""_Immediately return this expression instead of assigning it to the temporary variable "message".(ÆÛš
+u
+java:S1488)"_Immediately return this expression instead of assigning it to the temporary variable "message".(ÆÛš
+^
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(·§üñ
+e
+java:S4488 "JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¦„Ùşÿÿÿÿ
+e
+java:S4488'"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¯å§×ùÿÿÿÿ
+Q	java:S125/"<This block of commented-out lines of code should be removed.(˜¦Ö’
