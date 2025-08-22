@@ -1,0 +1,29 @@
+package org.vrnda.hrms.service;
+
+
+import java.util.List;
+
+import org.vrnda.hrms.entity.CmnGeneralLoanConfigDetailsEntity;
+import org.vrnda.hrms.repository.dto.CmnGeneralLoanConfigDetailsDTO;
+import org.vrnda.hrms.service.resultset.CmnGeneralLoanConfigDetailsResultSet;
+
+public interface CmnGeneralLoanConfigDetailsService extends GenericService<CmnGeneralLoanConfigDetailsEntity, Long>{
+
+	public CmnGeneralLoanConfigDetailsResultSet saveOrUpdateGeneralLoanConfigDetails(CmnGeneralLoanConfigDetailsDTO cmnGeneralLoanConfigDetailsDto, String loggedInUser);
+
+	public CmnGeneralLoanConfigDetailsResultSet deleteGeneralLoanConfigDetailsByCmnGenLoanConfigDetlsId(Long cmnGenLoanConfigDetlsId);
+
+	public CmnGeneralLoanConfigDetailsResultSet deleteGeneralLoanConfigDetailsList(List<CmnGeneralLoanConfigDetailsDTO> cmnGeneralLoanConfigDetailsDtoList);
+
+	public CmnGeneralLoanConfigDetailsResultSet getGeneralLoanConfigDetailsByConfigurationId(Long configurationId);
+
+	public CmnGeneralLoanConfigDetailsResultSet getGeneralLoanConfigDetailsByCmnGenLoanConfigDetlsId(Long cmnGenLoanConfigDetlsId);
+
+	public CmnGeneralLoanConfigDetailsResultSet getGeneralLoanConfigDetailsByConfigurationIdAndStatusLookupId(Long configurationId, Long statusLookupId);
+	
+	public CmnGeneralLoanConfigDetailsResultSet getEmployeeLoanConfigDetails(Long employeeId, String year);
+
+	public CmnGeneralLoanConfigDetailsResultSet getLoanConfigDetailsByLookUpId();
+	
+	
+}

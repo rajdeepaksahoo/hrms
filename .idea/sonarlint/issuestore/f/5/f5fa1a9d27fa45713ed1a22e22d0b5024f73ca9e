@@ -1,0 +1,29 @@
+
+p
+java:S2293ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(ç™¹“
+o
+java:S1192¤"XDefine a constant instead of duplicating this literal "Invalid Inputs: YearId " 3 times.(äÌÂ
+]
+java:S11924"HDefine a constant instead of duplicating this literal "Failed" 10 times.(…’ÔE
+[
+java:S1192O"FDefine a constant instead of duplicating this literal "Error" 3 times.(ö˜¿
+‡
+java:S1192Ÿ"kDefine a constant instead of duplicating this literal "Holidays not found for the given YearId : " 3 times.(û“×úüÿÿÿÿ
+`
+java:S1192U"JDefine a constant instead of duplicating this literal "Exception" 6 times.(Åªò
+g
+java:S1192"KDefine a constant instead of duplicating this literal "yyyy-MM-dd" 4 times.(å‚àŸøÿÿÿÿ
+i
+java:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(€¢¾”
+n
+java:S3776ô"RRefactor this method to reduce its Cognitive Complexity from 61 to the 15 allowed.(Òøª“ùÿÿÿÿ
+i
+java:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 61 to the 15 allowed.(·†É¸
+X
+java:S1126£"AReplace this if-then-else statement by a single return statement.(‹Å÷–
+X
+java:S1126²"AReplace this if-then-else statement by a single return statement.(‹Å÷–
+â
+java:S6541ô"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 80 to 64, Complexity from 18 to 14, Nesting Level from 9 to 2, Number of Variables from 22 to 6.(Òøª“ùÿÿÿÿ
+İ
+java:S6541Ç"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 85 to 64, Complexity from 18 to 14, Nesting Level from 9 to 2, Number of Variables from 22 to 6.(·†É¸

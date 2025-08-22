@@ -1,0 +1,19 @@
+
+u
+java:S2293Ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(šìÈ®úÿÿÿÿ
+b
+java:S1192>"GDefine a constant instead of duplicating this literal "Failed" 3 times.(”ï»øùÿÿÿÿ
+`
+java:S1192s"JDefine a constant instead of duplicating this literal "Exception" 8 times.(«ÑÞƒ
+k	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Úá£úÿÿÿÿ
+h
+java:S37766"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÙùÜŽ
+b
+java:S1854c"LRemove this useless assignment to local variable "cmnAddressesMstResultset".(’Ø±Ù
+V	java:S125K"<This block of commented-out lines of code should be removed.(²ùèŸþÿÿÿÿ
+8
+java:S1116ƒ"Remove this empty statement.(Åñ­õþÿÿÿÿ
+n
+java:S3776š"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ý›Øêþÿÿÿÿ
+X
+java:S1126†"AReplace this if-then-else statement by a single return statement.(ÛÓ§ü
